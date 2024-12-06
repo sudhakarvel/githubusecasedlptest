@@ -54,7 +54,7 @@ Save your input file as `input.csv` in the same directory or specify its path in
 Execute the script with the following command:
 
 ```bash
-python explode.py
+python3 explode.py
 ```
 
 ---
